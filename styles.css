@@ -4,7 +4,12 @@
     flex-wrap: wrap;
 }
 
-.cell {
+.baseCell {
     background-color: darkgray;
+    border: solid gray 1px;
+}
+
+.blackCell {
+    background-color: black;
     border: solid gray 1px;
 }
